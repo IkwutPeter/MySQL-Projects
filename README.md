@@ -1,0 +1,1 @@
+Performed comprehensive data cleaning and exploratory data analysis to provide insights into the global impact of COVID-19 on workers laid off. Highlighted total percentage laid off, layoffs by company, country, and year.  
